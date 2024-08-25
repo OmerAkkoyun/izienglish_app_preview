@@ -9,6 +9,8 @@ Kalıp Cümleler: En çok kullanılan cümle kalıplarını öğrenerek hızlı 
 Hikayeler: İngilizce okuma becerilerinizi geliştirmek için kısa hikayeler.
 Oyunlar: Eğlenceli oyunlar ile öğrendiklerinizi pekiştirin ve öğrenme sürecinizi daha keyifli hale getirin.
 
+Google Play: https://play.google.com/store/apps/details?id=com.omerakkoyun.ingilizcehikayeler
+
 ***
 
 
