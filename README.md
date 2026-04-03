@@ -25,7 +25,3 @@ Google Play: https://play.google.com/store/apps/details?id=com.omerakkoyun.ingil
 ![8](https://github.com/user-attachments/assets/9bc427e3-67e8-440c-8c27-e2b82d4a2b61)
 ![5](https://github.com/user-attachments/assets/db1ea39a-1062-4ed3-b2a7-26bf13640148)
 
-***
-App Yapı
-***
-![yy](https://github.com/user-attachments/assets/2d41e3fa-41cc-4b55-9785-8ee8f5ca810a)
